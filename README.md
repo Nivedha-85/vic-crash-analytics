@@ -11,7 +11,7 @@ be one or more people involved with one accident only. The accident_no and perso
 the primary keys.
 Data Dictionary: Provides Supporting documentation of of the above files with further details of
 the attributes
-Part A Practical Work (Total: 20 marks)
+Part A Practical Work
 Create a series of 5 visualisations in Tableau or R to analyse and interpret the road crash data. Your
 visualisations must address the following:
 1. Develop a time series visualisation to examine trends in road crashes over a specified period.
